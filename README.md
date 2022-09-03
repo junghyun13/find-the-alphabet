@@ -1,0 +1,2 @@
+# find-the-alphabet
+A word S consisting of only lowercase letters of the alphabet is given. For each alphabet, write a program that prints the position of the first occurrence if it is included in the word, and -1 if it is not included in the word. is the 1st position.) 알파벳 소문자로만 이루어진 단어 S가 주어진다. 각각의 알파벳에 대해서, 단어에 포함되어 있는 경우에는 처음 등장하는 위치를, 포함되어 있지 않은 경우에는 -1을 출력하는 프로그램을 작성하시오.(단어의 첫 번째 글자는 0번째 위치이고, 두 번째 글자는 1번째 위치이다.)
